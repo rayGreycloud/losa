@@ -1,0 +1,12 @@
+{
+  "name": "_losa",
+  "version": "1.0.0",
+  "description": "losa - matching game",
+  "main": "evalBoard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
