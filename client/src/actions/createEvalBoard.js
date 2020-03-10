@@ -15,3 +15,5 @@ export const createEvalBoard = (currentBoard, direction) => dispatch => {
 
   dispatch(evaluateBoard(evalBoard));
 };
+
+const evaluateBoard = evalBoard => {};

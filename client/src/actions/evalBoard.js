@@ -86,7 +86,7 @@ function evalBoard(board, newBoard) {
 
   return board;
 }
-console.log('new: ', evalBoard(sampleBoard, newBoard));
+console.log('new: ', evalBoard(sampleBoard2, newBoard));
 
 // console.log(sampleRow);
 // console.log('result: ', evalRow(sampleRow));
